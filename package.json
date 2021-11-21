@@ -1,0 +1,25 @@
+{
+  "name": "yapi-plugin-import-postman-collections",
+  "version": "1.0.0",
+  "description": "yapi plugin for postman collections",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jialong5566/yapi-plugin-import-postman-collections.git"
+  },
+  "keywords": [
+    "yapi",
+    "plugin",
+    "postman",
+    "collections"
+  ],
+  "author": "jialong5566",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jialong5566/yapi-plugin-import-postman-collections/issues"
+  },
+  "homepage": "https://github.com/jialong5566/yapi-plugin-import-postman-collections#readme"
+}
